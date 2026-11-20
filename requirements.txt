@@ -4,3 +4,4 @@ openai
 edge-tts
 pydub
 imageio-ffmpeg
+google-genai
